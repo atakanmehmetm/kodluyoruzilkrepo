@@ -20,9 +20,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ### Links
 [Patika.Dev](www.patika.dev)  
-[Patika Profilim](https://app.patika.dev/sprucer)
-[LinkedIn](https://www.linkedin.com/in/atakan-mehmet-metin-82b4031b4/)
-[Stack Overflow](https://stackoverflow.com/users/19574810/atakan-mehmet-metin)
+[Patika Profilim](https://app.patika.dev/sprucer)  
+[LinkedIn](https://www.linkedin.com/in/atakan-mehmet-metin-82b4031b4/)  
+[Stack Overflow](https://stackoverflow.com/users/19574810/atakan-mehmet-metin)  
 
 
 
