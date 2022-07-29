@@ -18,6 +18,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+[Patika](www.patika.dev)
+[Patika Profilim](https://app.patika.dev/sprucer)
 
 
 
